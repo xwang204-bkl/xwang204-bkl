@@ -4,9 +4,9 @@ I'm a physics major at UC Berkeley, with a passion for physics, AI and data scie
 🎯 Featured Project:
 
 🛠 Tech Stack:
-Programming Languages: Python, Matlab
-Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib
-Databases: SQL, MySQL
-Development Tools: Jupyter Notebooks
-Version Control: Git, GitHub
+##Programming Languages: Python, Matlab
+##Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib
+##Databases: SQL, MySQL
+##Development Tools: Jupyter Notebooks
+##Version Control: Git, GitHub
 
